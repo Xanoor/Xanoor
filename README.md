@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I’m an 18 year old IT student from France.
 - 💡 I’m interested in everything, especially development and cybersecurity.
-- 📖 I’m currently learning: Java, Golang, Cybersecurity.
+- 📖 I’m currently learning: React, TypeScript, Java, Golang, Cybersecurity.
 
 
 # 💻 Technologies and Tools I use:
