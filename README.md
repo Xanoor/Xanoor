@@ -22,5 +22,6 @@
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xanoor&theme=radical&show_icons=true&hide_border=true&count_private=true&card_width=500"/>  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanoor&theme=radical&show_icons=true&hide_border=true&layout=compact&card_width=500" />
 </div>
