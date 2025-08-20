@@ -1,9 +1,8 @@
 # 👨🏻‍💻 About Me:
 
-- 👨‍🎓 I’m an 18 year old IT student from France.
-- 💡 I’m interested in everything, especially development and cybersecurity.
+- 👨‍🎓 I’m a 19-year-old IT student from France.
+- 💡 I’m interested in everything, especially development, cybersecurity, and increasingly AI. I also enjoy the stock market, crypto, and related topics.
 - 📖 I’m currently learning: React, TypeScript, Java, Golang, Cybersecurity.
-
 
 # 💻 Technologies and Tools I use:
 <div align="center">
