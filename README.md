@@ -3,6 +3,7 @@
 - 👨‍🎓 I’m a 19-year-old IT student from France.
 - 💡 I’m interested in everything, especially development, cybersecurity, and increasingly AI. I also enjoy the stock market, crypto, and related topics.
 - 📖 I’m currently learning: React, TypeScript, Java, Golang, Cybersecurity.
+- 🔧 Working as an IT Technician for Aumovio.
 
 # 💻 Technologies and Tools I use:
 <div align="center">
