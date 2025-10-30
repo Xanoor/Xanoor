@@ -1,8 +1,8 @@
 # 👨🏻‍💻 About Me:
 
 - 👨‍🎓 I’m a 19-year-old IT student from France.
-- 💡 I’m interested in everything, especially development, cybersecurity, and increasingly AI. I also enjoy the stock market, crypto, and related topics.
-- 📖 I’m currently learning: React, TypeScript, Java, Golang, Cybersecurity.
+- 💡 I’m interested in everything, especially development, cybersecurity, and increasingly AI. I also enjoy the space, stock market, crypto, and related topics.
+- 📖 I’m currently learning: React, TypeScript, Golang, Cybersecurity.
 - 🔧 Working as an IT Technician for Aumovio.
 
 # 💻 Technologies and Tools I use:
